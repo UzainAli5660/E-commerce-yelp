@@ -1,0 +1,277 @@
+*{
+  text-decoration: none;
+}
+ .top {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 90%;
+  background: url('./img/Dramatic-all-black-kitchen-design.jpg') no-repeat center center; 
+  background-size: cover;
+}
+ 
+
+
+
+
+
+.short{
+   padding-top: 300px;
+   color: white;
+   font-weight: 500;
+   padding-left: 150px;
+   padding-bottom: 30px;
+}
+
+
+.sma{
+  text-align: center;
+text-decoration: none;
+
+}
+
+
+
+.logos{
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px;
+  
+}
+.logos p{
+  color: black;
+  text-decoration: none;
+  font-weight: 500 ;
+}
+
+
+
+
+
+
+
+
+.exrta input{
+  background-color: white;
+  /* color: black; */
+}
+.searchbar {
+    width: 400px;
+    height: 50px;
+  background-color: white;
+  border-radius: 5px;
+  border-color: black;
+
+}
+
+
+.searchbar span{
+    background: red;
+    height: 50px;
+    width: 50px;
+    
+    border-radius: 5px;
+    margin-right: -15px;
+    color: white;
+    /* color: white; */
+    /* color: white; */
+}
+.ulli a{
+     color: white;
+  font-size: 200;
+
+  font-weight: 500 ;
+   /* margin-left: 30px; */
+}
+/* .ulli a:hover{
+    color: white;
+    background: rgb(190, 190, 190);
+} */
+.dropdown  a{
+  color: black;
+ }
+nav .btn1{
+  border: 2px solid white;
+  color: white;
+}
+nav .btn1:hover{
+    background-color:rgb(190, 190, 190) ;
+    border:2px solid white ;
+  }
+nav .btn2{
+    border-color: red;
+    background: red;
+    color: white;
+  }
+  nav .btn2:hover{
+    border-color: red;
+    background: red;
+    color: white;
+  }
+  nav button{
+    margin-right: 30px;
+  }
+.smalldrop a{
+  color: white;
+  text-decoration: none;
+  font-weight: 450;}
+
+.smalldrop{
+  margin-left: 165px;
+  display: flex;
+  gap: 50px;
+}
+.fscreen {
+  padding-left: 150px; 
+  padding-top: 80px;
+  
+}
+.fscreen h1{
+   color: white;
+}
+.fscreen button{
+border-color: red;
+  background-color: red;
+  color: white;
+  width: 150px;
+  height: 50px;
+}
+
+
+.heading{
+  text-align: center;
+  padding-top: 50px;
+  color: black;
+  text-decoration: none;
+}
+ 
+@media (min-width: 454px) {
+  #Categories{
+    display: block;
+
+  }
+}
+
+.end{
+  text-align: center;
+  padding-top: 50px;
+}
+.end p{
+  padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.site-footer {
+  /* background-color: #333; */
+  color: black;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.footer-columns {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.footer-column {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+.footer-column li b{
+  color: black;
+}
+.footer-column li a {
+  color: gray;
+  text-decoration: none;
+  transition: color 0.3s;
+
+}
+.footer-column li a:hover {
+  color:gray;
+}
+
+@media (max-width: 768px) {
+  .footer-columns {
+      flex-direction: column;
+      align-items: center;
+  }
+  
+  .footer-column {
+      margin-bottom: 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
